@@ -27,7 +27,7 @@
   <project path="device/htc/common" name="device/htc/common" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
-  <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" remote="github" />
+  <project path="device/htc/hero" name="adq/android_device_htc_hero"  remote="githubadq" />
   <project path="device/htc/inc" name="koush/android_device_htc_inc" remote="github" />
   <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" />
   <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
@@ -120,7 +120,7 @@
   <project path="external/yaffs2" name="koush/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="platform/external/zlib" />
 
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="adq/android_frameworks_base" remote="githubadq" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="CyanogenMod/android_frameworks_policies_base" remote="github" />
@@ -128,7 +128,7 @@
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
-  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" />
+  <project path="hardware/msm7k" name="adq/android_hardware_msm7k"  remote="githubadq" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
